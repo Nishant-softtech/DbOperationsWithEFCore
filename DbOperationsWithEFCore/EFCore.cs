@@ -8,7 +8,7 @@
         }
         public int Id { get; set; }
         public string MyProperty { get; set; }
-        public int MyProperty2 { get; set; }
+        public int Name { get; set; }
 
     }
 }
