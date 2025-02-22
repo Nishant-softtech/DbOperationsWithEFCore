@@ -7,7 +7,7 @@
 
         }
         public int Id { get; set; }
-        public string MyProperty { get; set; }
+        public string Address { get; set; }
         public int Name { get; set; }
 
     }
